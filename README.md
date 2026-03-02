@@ -1,4 +1,4 @@
-Project for collecting and analyzing **GitHub Public Events** data, with both **streaming (Kafka)** and **batch/offline** analysis artifacts.
+Project for collecting and analyzing **GitHub Public Events** data.
 
 ## What’s in this repo
 
